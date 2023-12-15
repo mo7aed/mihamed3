@@ -1,0 +1,21 @@
+ 
+body{
+    background-color: rgb(212, 212, 212); 
+}
+h1 {
+    font-size: 100px;
+    font-family:  fantasy;
+}
+
+button {
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+
+ 
+
+button:hover{
+    background-color: green;
+}
